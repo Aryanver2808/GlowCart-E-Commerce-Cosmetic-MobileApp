@@ -12,7 +12,13 @@ GlowCart is a modern and sleek beauty product shopping app built with **React Na
 
 ## 📷 App Screenshot
 
-![GlowCart Screenshot](./assets/images/screenshot1.png)(./assets/images/screenshot2.png)(./assets/images/screenshot3.png)(./assets/images/screenshot4.png)(./assets/images/screenshot5.png)
+<p align="center">
+  <img src="assets/images/screenshot1.png" alt="Screenshot 1" width="200" />
+  <img src="assets/images/screenshot2.png" alt="Screenshot 2" width="200" />
+  <img src="assets/images/screenshot3.png" alt="Screenshot 3" width="200" />
+  <img src="assets/images/screenshot4.png" alt="Screenshot 4" width="200" />
+  <img src="assets/images/screenshot5.png" alt="Screenshot 5" width="200" />
+</p>
 
 
 
